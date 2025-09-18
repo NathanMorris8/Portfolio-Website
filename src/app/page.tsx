@@ -32,7 +32,7 @@ export default function HomePage() {
                 Get In Touch
               </a>
               <a
-                href="/api/resume"
+                href="/resume.pdf"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="border-2 border-neon-purple text-neon-purple px-8 py-3 rounded-lg hover:bg-neon-purple hover:text-black transition-all duration-300 font-techno font-semibold tracking-wide uppercase transform hover:scale-105 neon-border"
